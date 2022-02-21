@@ -1,4 +1,5 @@
 # https://bookdown.org/kochiuyu/Technical-Analysis-with-R/quantmod.html
+# https://cran.r-project.org/web/packages/quantmod/quantmod.pdf
 # install.packages("quantmod")
 library(quantmod)
 LARGAN <- getSymbols("3008.TW", from="2010-1-1")
